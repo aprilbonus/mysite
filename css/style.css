@@ -46,8 +46,9 @@ This is main CSS file that contains custom style rules used in this template
   --bs-link-color-rgb: 255, 255, 255;
   --bs-link-hover-color: #F5E9E9;
   --bs-link-hover-color-rgb: 245, 233, 233;
-  --bs-body-color: #111111;
+  --bs-body-color: #a6cfbf;
   --bs-border-color: #F0FAFC;
+  
 
 }
 
@@ -64,6 +65,7 @@ body [data-bs-theme=light] {
   --bs-white: #F0FAFC;
   --bs-gray: #555865;
   --bs-info: #C3C3C3;
+  --bs-gumleaf:#a6cfbf;
 }
 
 body {
