@@ -23,7 +23,8 @@ This is main CSS file that contains custom style rules used in this template
 :root {
   --bs-red: #F0756C;
   --bs-orange: #F9A01F;
-  --bs-yellow: #FFCB39;
+  /* --bs-yellow: #FFCB39; */
+  --bs-yellow: #a6cfbf;
   --bs-green: #F5F8F1;
   --bs-teal: #EFE8EF;
   --bs-cyan: #F5F5F5;
@@ -57,7 +58,8 @@ body [data-bs-theme=light] {
   --bs-blue: #1A2C6A;
   --bs-red: #F0756C;
   --bs-orange: #F9A01F;
-  --bs-yellow: #EFEAEA;
+ /* --bs-yellow: #EFEAEA; */
+  --bs-yellow: #a6cfbf;
   --bs-green: #F5F8F1;
   --bs-teal: #EFE8EF;
   --bs-cyan: #F5F5F5;
